@@ -1,0 +1,12 @@
+body{
+    background-color: #1c1b1b;
+}
+.center{
+    text-align: center;
+    font-size: x-large;
+    font-style: inherit;
+    color: blueviolet;
+}
+.pstyle{
+    color: chartreuse;
+}
